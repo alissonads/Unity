@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 9445755d3102b154da6f2e2feb11810e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7743099598935658807
+    second: projectile_bolt_red_0
+  - first:
+      213: 3209470347517937974
+    second: projectile_bolt_red_1
+  - first:
+      213: 2951078577482993783
+    second: projectile_bolt_red_2
+  - first:
+      213: 7866925889120198516
+    second: projectile_bolt_red_3
+  - first:
+      213: -3073324480510676972
+    second: projectile_bolt_red_4
+  - first:
+      213: 5885228836997795999
+    second: projectile_bolt_red_5
+  - first:
+      213: -2001992535518989847
+    second: projectile_bolt_red_6
+  - first:
+      213: 2971421796803146259
+    second: projectile_bolt_red_7
+  - first:
+      213: -3553818822618254581
+    second: projectile_bolt_red_8
+  - first:
+      213: -8309721733986520766
+    second: projectile_bolt_red_9
+  - first:
+      213: -6841486509962065896
+    second: projectile_bolt_red_10
+  - first:
+      213: -4649281800923074290
+    second: projectile_bolt_red_11
+  - first:
+      213: -6425734832059076181
+    second: projectile_bolt_red_12
+  - first:
+      213: 4786244049639338227
+    second: projectile_bolt_red_13
+  - first:
+      213: -2554925001989517638
+    second: projectile_bolt_red_14
+  - first:
+      213: 5574605283580790902
+    second: projectile_bolt_red_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: projectile_bolt_red_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b26d62cddde340bbd0a88ad64ae6e
+      internalID: -7743099598935658807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e674efe9a7304bac5a001877e658b
+      internalID: 3209470347517937974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 13
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fdea43ddd68ee488fbf66fdce5863a
+      internalID: 2951078577482993783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9c2e834cd5a3042b08ecb48e29a287
+      internalID: 7866925889120198516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a3e82b96eb6164199592b73cd35aff
+      internalID: -3073324480510676972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e087edc64f978478b9b6d230c8e1e5
+      internalID: 5885228836997795999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8ba62ddb175949905fb7721cc02eb
+      internalID: -2001992535518989847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c9901beb786644b712783d4b454b7
+      internalID: 2971421796803146259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a4fb9526ffc4d43b8fe2a32723f7ef
+      internalID: -3553818822618254581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a81f990bc81b6469c570a172fc187a
+      internalID: -8309721733986520766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be03f4eb2b2a6f41b81bdee62e4fa15
+      internalID: -6841486509962065896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d66c521f864d4194b8a0e06ba6793
+      internalID: -4649281800923074290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4251a198b2dcc1419489c2bf8904069
+      internalID: -6425734832059076181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f8bf8a5de8c54c8b43a052ccad916
+      internalID: 4786244049639338227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87898c0a3479b844b9dafec923c03dd
+      internalID: -2554925001989517638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile_bolt_red_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 12
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df3ade51f7c6543ae7d41b9ac6a2e5
+      internalID: 5574605283580790902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
